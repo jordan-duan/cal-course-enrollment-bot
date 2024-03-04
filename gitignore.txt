@@ -1,0 +1,4 @@
+.DS_Store
+.env
+geckodriver.log
+# change file type to .gitignore
