@@ -43,7 +43,7 @@ Finally, kick off the magic with this command:
 python3 main.py
 ```
 
-Now, grab a snack, sit back, and relax. Your enrollment will be done within 9 seconds of your enrollment time starting! 🚀
+Now, grab a snack, sit back, and relax. Your enrollment will be done within 10 seconds of your enrollment time starting! 🚀
 
 **Note:** Take a peek at the code if you're into that sort of thing, and remember, use this responsibly and be aware of your university's policies. I'm just here to make your life a bit easier!
 
