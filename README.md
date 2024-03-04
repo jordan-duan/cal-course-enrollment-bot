@@ -25,8 +25,8 @@ Oh, and don't forget to download the appropriate web driver (GeckoDriver or Chro
 2. Open up `.env` and toss in your UC Berkeley username and password like you're making a secret sauce:
 
 ```env
-USERNAME=your_berkeley_username
-PASSWORD=your_berkeley_password
+USERNAME="CALNETID"
+PASSWORD="CALNETPW"
 ```
 
 3. Adjust the `target_time` variable in the `main.py` script to your enrollment time. Trust me, it's a piece of cake with the format provided.
