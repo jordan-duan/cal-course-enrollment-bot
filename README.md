@@ -9,6 +9,13 @@ First things first, make sure you have Python installed on your machine. Then, r
 ```bash
 pip install -r requirements.txt
 ```
+OR
+
+```bash
+pip install python-dotenv
+pip install selenium
+
+```
 
 Oh, and don't forget to download the appropriate web driver (GeckoDriver or ChromeDriver) and pop it into the project folder. Easy peasy!
 
